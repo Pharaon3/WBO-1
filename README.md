@@ -10,7 +10,7 @@ A demonstration server is available at [wbo.ophir.dev](https://wbo.ophir.dev)
 <table>
  <tr>
   <td> The <i><a href="https://wbo.ophir.dev/boards/anonymous">anonymous</a></i> board
-  <td> <img width="300" src="https://user-images.githubusercontent.com/552629/59885574-06e02b80-93bc-11e9-9150-0670a1c5d4f3.png">
+  <td> <img width="300" src="">
   <td> collaborative diagram editing
   <td> <img alt="Screenshot of WBO's user interface: architecture" width="300" src="https://user-images.githubusercontent.com/552629/59915054-07101380-941c-11e9-97c9-4980f50d302a.png" />
   
@@ -18,7 +18,7 @@ A demonstration server is available at [wbo.ophir.dev](https://wbo.ophir.dev)
    <td> teaching math on <b>WBO</b>
    <td> <img alt="wbo teaching" width="300" src="https://user-images.githubusercontent.com/552629/59915737-a386e580-941d-11e9-81ff-db9e37f140db.png" />
    <td> drawing art
-   <td> <img alt="kawai cats on WBO" width="300" src="https://user-images.githubusercontent.com/552629/120919822-dc2c3200-c6bb-11eb-94cd-57a4254fbe0a.png"/>
+   <td> <img alt="kawai cats on WBO" width="300" src=""/>
 </table>
 
 ## Running your own instance of WBO
